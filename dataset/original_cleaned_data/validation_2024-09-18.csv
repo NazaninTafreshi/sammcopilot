@@ -1,0 +1,14 @@
+JSON_paths,TTL_paths
+io.catenax.single_level_bom_as_planned/2.0.0/gen/SingleLevelBomAsPlanned.json,io.catenax.single_level_bom_as_planned/2.0.0/SingleLevelBomAsPlanned.ttl
+io.catenax.battery.battery_pass/5.0.0/gen/BatteryPass.json,io.catenax.battery.battery_pass/5.0.0/BatteryPass.ttl
+io.catenax.battery.battery_pass/6.0.0/gen/BatteryPass.json,io.catenax.battery.battery_pass/6.0.0/BatteryPass.ttl
+io.catenax.software_information/1.0.0/gen/SoftwareInformation.json,io.catenax.software_information/1.0.0/SoftwareInformation.ttl
+io.catenax.reuse_certificate/2.0.0/gen/ReuseCertificate.json,io.catenax.reuse_certificate/2.0.0/ReuseCertificate.ttl
+io.catenax.request_for_quotation/3.0.0/gen/RequestForQuotation.json,io.catenax.request_for_quotation/3.0.0/RequestForQuotation.ttl
+io.catenax.fleet.claim_data/2.0.0/gen/ClaimData.json,io.catenax.fleet.claim_data/2.0.0/ClaimData.ttl
+io.catenax.fleet.diagnostic_data/2.0.0/gen/DiagnosticData.json,io.catenax.fleet.diagnostic_data/2.0.0/DiagnosticData.ttl
+io.catenax.vehicle.product_description/3.0.0/gen/ProductDescription.json,io.catenax.vehicle.product_description/3.0.0/ProductDescription.ttl
+io.catenax.planned_production_output/2.0.0/gen/PlannedProductionOutput.json,io.catenax.planned_production_output/2.0.0/PlannedProductionOutput.ttl
+io.catenax.shared.part_site_information_as_built/2.0.0/gen/PartSiteInformationAsBuilt.json,io.catenax.shared.part_site_information_as_built/2.0.0/PartSiteInformationAsBuilt.ttl
+io.catenax.manufacturing_capability/3.0.0/gen/ManufacturingCapability.json,io.catenax.manufacturing_capability/3.0.0/ManufacturingCapability.ttl
+io.catenax.shared.contact_information/4.0.0/gen/ContactInformation.json,io.catenax.shared.contact_information/4.0.0/ContactInformation.ttl

@@ -1,0 +1,14 @@
+FilePath,#triples,Property,Aspect,Characteristic,Entity,Constraint,AbstractEntity,AbstractProperty,Collection,Trait,Set,Quantifiable,RangeConstraint,RegularExpressionConstraint,description,exampleValue,see,preferredName,unit,maxValue,minValue,upperBoundDefinition,lowerBoundDefinition,constraint,baseCharacteristic,value
+io.catenax.single_level_bom_as_planned/2.0.0/SingleLevelBomAsPlanned.ttl,147,11,1,4,3,0,0,0,0,2,1,1,0,2,23,8,3,25,0,0,0,0,0,2,2,0
+io.catenax.battery.battery_pass/5.0.0/BatteryPass.ttl,1482,113,1,42,44,0,0,0,0,0,0,0,0,0,213,31,2,213,8,0,0,0,0,0,0,0
+io.catenax.battery.battery_pass/6.0.0/BatteryPass.ttl,1477,113,1,42,44,0,0,0,0,0,0,0,0,0,213,32,2,213,8,0,0,0,0,0,0,0
+io.catenax.software_information/1.0.0/SoftwareInformation.ttl,69,6,1,3,1,0,0,0,0,0,1,0,0,0,12,5,0,12,0,0,0,0,0,0,0,0
+io.catenax.reuse_certificate/2.0.0/ReuseCertificate.ttl,12,1,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0
+io.catenax.request_for_quotation/3.0.0/RequestForQuotation.ttl,516,43,1,40,9,0,0,0,0,0,0,0,0,0,93,30,2,93,0,0,0,0,0,0,0,0
+io.catenax.fleet.claim_data/2.0.0/ClaimData.ttl,453,39,1,6,6,0,0,0,0,3,0,0,2,1,62,33,1,62,1,2,2,2,2,3,3,0
+io.catenax.fleet.diagnostic_data/2.0.0/DiagnosticData.ttl,695,61,1,7,7,0,0,0,0,4,0,1,2,2,93,53,2,91,1,2,2,2,2,4,4,0
+io.catenax.vehicle.product_description/3.0.0/ProductDescription.ttl,712,48,1,11,8,0,0,0,0,3,0,0,0,2,83,40,10,81,3,1,1,0,0,3,3,0
+io.catenax.planned_production_output/2.0.0/PlannedProductionOutput.ttl,120,11,1,3,3,0,0,0,0,0,2,1,0,0,21,7,1,21,0,0,0,0,0,0,0,0
+io.catenax.shared.part_site_information_as_built/2.0.0/PartSiteInformationAsBuilt.ttl,53,4,1,0,1,0,0,0,0,0,1,0,0,0,8,3,1,8,0,0,0,0,0,0,0,0
+io.catenax.manufacturing_capability/3.0.0/ManufacturingCapability.ttl,320,24,1,4,12,0,2,0,0,0,12,0,0,0,55,7,2,55,0,0,0,0,0,0,0,0
+io.catenax.shared.contact_information/4.0.0/ContactInformation.ttl,76,5,1,2,1,0,0,0,0,2,0,0,0,2,11,4,2,11,0,0,0,0,0,2,2,0
