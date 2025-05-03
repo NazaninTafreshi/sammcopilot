@@ -1,0 +1,30 @@
+# CITATION.cff
+cff-version: 1.2.0
+message: "If you use the software, dataset, or ideas from this repository, please cite the associated Master's thesis using the information below."
+authors:
+  - family-names: "Mashhadi Tafreshi" 
+    given-names: "Nazanin"
+    # affiliation: ""
+title: "SAMM Copilot: " 
+type: thesis
+institution: # <-- Add details about the institution/university
+  name: "[Name of University where thesis was submitted]"
+# Optional: department: "[Department Name]"
+# Optional: address: "[University Address]"
+# Optional: Add details for Bosch if it was a joint submission context
+# publisher:
+#   name: "Bosch Connected Industry" # Or perhaps the University is the publisher? Clarify based on thesis details.
+keywords:
+  - "SAMM"
+  - "Semantic Aspect Meta Model"
+  - "ESMF"
+  - "Eclipse Semantic Modeling Framework"
+  - "Semantic Model"
+  - "Large Language Models"
+  - "LLM"
+# license: MIT # Optional: Uncomment and choose a license if you add a LICENSE file
+# version: 1.0.0 # Optional: Assign a version, or use date-released
+date-released: "[YYYY-MM-DD]" # <-- IMPORTANT: Replace with the thesis completion or public release date
+url: "https://github.com/NazaninTafreshi/sammcopilot"
+# doi: ""
+# abstract: "[Paste the thesis abstract here]"
